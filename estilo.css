@@ -1,0 +1,21 @@
+header {
+    width: 82%
+    max-wid: 1000px;
+    margin: auto;
+}
+
+nav {
+    background: rg(41, 143, 49) margin-top:30px;
+    position: relative;
+    margin-left: 30px;
+    border-radius: 5px;
+    display: grid;
+    grid-gap: 20px;
+}
+
+nav ul {
+    list-style: ;
+
+
+
+}
